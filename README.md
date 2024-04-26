@@ -96,7 +96,7 @@
  
 <p>
 <a href="https://github.com/SachinSemwal007"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinSemwal0007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinSemwal007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SachinSemwal007&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
