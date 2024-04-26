@@ -15,11 +15,11 @@
 
  ## 👨‍💻ABOUT ME:
 - 🤔 I use daily ```.js```,``` .Tailwind-css```, ```.html```, ```.react```, ```.next```
-- 🛠  I’m currently learning about **Deep Learning!😅**
+- 🛠  Exciting times ahead — **I'm diving into the fascinating realm of Deep Learning! Ready to unravel the secrets of artificial intelligence with me?**
 - 🔗 Visit my portfolio: [Portfolio](https://SachinSemwal007.github.io/)
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
-- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
+- 💬 Curious minds, unite! Feel free to fire away with your questions — **I'm here to be your trusty guide through the labyrinth of knowledge. Just toss the ball my way, and let's score some answers together!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new as i think there is always something to learn and there is always a place for a better version of me!=* 😎<br>
 
 
