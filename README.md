@@ -14,13 +14,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
  ## 👨‍💻ABOUT ME:
-- 🤔 I use daily ```.js```,``` .css```, ```.html```, ```.react```
+- 🤔 I use daily ```.js```,``` .Tailwind-css```, ```.html```, ```.react```, ```.next```
 - 🛠  I’m currently learning about **Deep Learning!😅**
 - 🔗 Visit my portfolio: [Portfolio](https://SachinSemwal007.github.io/)
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
+- ✍️ Fun fact : *I Always try to learn something new as i think there is always something to learn and there ia always a place for a better version of me!=* 😎<br>
 
 
 
