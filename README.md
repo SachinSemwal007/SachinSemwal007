@@ -20,7 +20,7 @@
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new as i think there is always something to learn and there ia always a place for a better version of me!=* 😎<br>
+- ✍️ Fun fact : *I Always try to learn something new as i think there is always something to learn and there is always a place for a better version of me!=* 😎<br>
 
 
 
@@ -110,4 +110,5 @@
  <br/>
  
 <hr clear="both">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
+I'm all about forging connections, especially in the world of technology and learning. Drop a line, and let's geek out over the latest innovations or swap insights on our favorite subjects. Looking forward to expanding our horizons together!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
