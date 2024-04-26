@@ -91,13 +91,13 @@
 </p>
 
 <p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Sakuu89&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=SachinSemwal007&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
 <p>
 <a href="https://github.com/SachinSemwal007"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakuu89&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sakuu89&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinSemwal0007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SachinSemwal007&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -105,7 +105,7 @@
  <br/>
 <p align="center">
 <a href="https://github.com/SachinSemwal007"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakuu89&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinSemwal007&theme=dracula" />
 </span></a> </p>
 
  <br/>
