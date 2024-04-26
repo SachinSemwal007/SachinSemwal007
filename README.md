@@ -42,7 +42,7 @@
   <a href="https://github.com/SchinSemwal007">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
-<a href="https://www.linkedin.com/in/sachin-semwal-80a522225/)" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
+<a href="https://www.linkedin.com/in/sachin-semwal-80a522225/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
 </p>
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 <hr>
@@ -78,9 +78,7 @@
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=white" alt="prettier" />
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> -->
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <!--   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" /> -->
   <div/>
 </p>
