@@ -20,7 +20,7 @@
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I'm on the hunt for assistance with my latest learning endeavors! **Ready to join forces and conquer new frontiers together?**
 - 💬 Curious minds, unite! Feel free to fire away with your questions — **I'm here to be your trusty guide through the labyrinth of knowledge. Just toss the ball my way, and let's score some answers together!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new as i think there is always something to learn and there is always a place for a better version of me!=* 😎<br>
+- ✍️ Fun fact : **I Always try to learn something new as i think there is always something to learn and there is always a place for a better version of me!** 😎<br>
 
 
 
