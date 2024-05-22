@@ -16,7 +16,7 @@
  ## 👨‍💻ABOUT ME:
 - 🤔 I use daily ```.js```,``` .Tailwind-css```, ```.html```, ```.react```, ```.next```
 - 🛠  Exciting times ahead — **I'm diving into the fascinating realm of Deep Learning! Ready to unravel the secrets of artificial intelligence with me?**
-- 🔗 Visit my portfolio: <a href="https://portfolio-sachin-semwals-projects.vercel.app/" target="_blank">Portfolio</a>.
+- 🔗 Visit my portfolio: <a href="https://portfolio-sachin-semwals-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>.
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I'm on the hunt for assistance with my latest learning endeavors! **Ready to join forces and conquer new frontiers together?**
 - 💬 Curious minds, unite! Feel free to fire away with your questions — **I'm here to be your trusty guide through the labyrinth of knowledge. Just toss the ball my way, and let's score some answers together!😉**<br>
