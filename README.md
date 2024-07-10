@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
  ## 👨‍💻ABOUT ME:
-- 🤔 I use daily   ```.js```,```.next```, ```.react```,``` .Tailwind-css```, ```.html```
+- 🤔 I use daily   ```.js```,```.next```, ```.react```,``` .Tailwind-css```, ```Jsx```
 - 🛠  Exciting times ahead — **I'm diving into the fascinating realm of Deep Learning! Ready to unravel the secrets of artificial intelligence with me?**
 - 🔗 Visit my portfolio: <a href="https://portfolio-sachin-semwals-projects.vercel.app/">Portfolio</a> (Ctrl+Click to open in a new tab).
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
